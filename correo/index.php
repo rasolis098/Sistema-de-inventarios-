@@ -28,7 +28,7 @@ $nombre_usuario = $usuario['nombre'] ?? 'Usuario';
 // Usamos las credenciales guardadas en la sesión para conectar con IMAP
 $imap_user = $_SESSION['imap_user'];
 $imap_pass = $_SESSION['imap_pass'];
-$imap_host = '{svgs441.serverneubox.com.mx:993/imap/ssl/novalidate-cert}INBOX';
+$imap_host = '';  **consultar el servidor de correo
 
 // El resto del código es idéntico al anterior...
 $inbox = @imap_open($imap_host, $imap_user, $imap_pass);
@@ -220,4 +220,5 @@ if ($emails) rsort($emails);
         });
     </script>
 </body>
+
 </html>
