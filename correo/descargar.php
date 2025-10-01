@@ -1,6 +1,6 @@
 <?php
 session_start();
-require_once '../config/db.php';
+require_once '../config/db.php';  ***aqui va el nombre y ubicacion de tu base de datos ***
 
 $usuario_id = $_SESSION['usuario_id'] ?? 1;
 $msg_id = isset($_GET['id']) ? (int)$_GET['id'] : null;
@@ -23,7 +23,7 @@ if (!$usuario) {
 
 $imap_user = $usuario['correo_usuario'];
 $imap_pass = $usuario['correo_password'];
-$imap_host = '{svgs441.serverneubox.com.mx:993/imap/ssl/novalidate-cert}INBOX';
+$imap_host = ''; **revisar bien la configuracion de tu servidor
 
 $inbox = @imap_open($imap_host, $imap_user, $imap_pass);
 if (!$inbox) {
@@ -69,3 +69,4 @@ header('Pragma: public');
 header('Content-Length: ' . strlen($content));
 echo $content;
 exit;
+
