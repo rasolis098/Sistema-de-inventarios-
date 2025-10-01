@@ -1,0 +1,1 @@
+<?php // Código para eliminar registro ?>

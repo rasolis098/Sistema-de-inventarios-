@@ -1,0 +1,1820 @@
+[21-Aug-2025 19:02:13 UTC] No se pudo descargar el PDF para pedido #41 desde http://tusitio.com/pedidos/pedido_pdf.php?id=41
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 220-svgs441.serverneubox.com.mx ESMTP Exim 4.98.2 #2 Thu, 21 Aug 2025 13:02:13 -0600 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: EHLO inv.dialexander.com
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250-svgs441.serverneubox.com.mx Hello inv.dialexander.com [65.99.205.95]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: AUTH LOGIN
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: [credentials hidden]
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: [credentials hidden]
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 235 Authentication succeeded
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: MAIL FROM:<ventas@dialexander.com>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250 OK
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: RCPT TO:<rasolis098@gmail.com>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250 Accepted
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: RCPT TO:<ventas@dialexander.com>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250 Accepted
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: DATA
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Date: Thu, 21 Aug 2025 19:02:13 +0000
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: To: rasolis098@gmail.com, ventas@dialexander.com
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: From: Distribuidora Industrial Alexander <ventas@dialexander.com>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Subject: =?UTF-8?Q?=F0=9F=94=94_Pedido_pendiente_#41?=
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Message-ID: <GJBO9TLHB1cXCag6LAgHGFJ1Lze9UtToO1Wuuo7Q5D8@inv.dialexander.com>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: X-Mailer: PHPMailer 6.10.0 (https://github.com/PHPMailer/PHPMailer)
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: MIME-Version: 1.0
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: <div style="font-family:Arial, sans-serif; max-width:700px; margin:0 auto; border:1px solid #ddd; border-radius:8px; overflow:hidden; box-shadow:0 2px 5px rgba(0,0,0,0.1);">
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <div style="background-color:#0d6efd; color:white; padding:20px;">
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <h2 style="margin:0;">🔔 Nuevo Pedido Pendiente</h2>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </div>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <div style="padding:20px;">
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Número de pedido:</strong> 41</p>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Cliente:</strong> [22] Cliente Prueba</p>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Fecha de creación:</strong> 2025-08-21 13:02:13</p>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Fecha de entrega:</strong> 2025-08-22</p>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Total:</strong> $10,438.84</p>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Observaciones:</strong> Sin comentarios</p>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <h3 style="margin-top:30px;">📦 Productos del pedido:</h3>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <table style="width:100%; border-collapse:collapse; margin-top:10px; font-size:13px;">
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <thead>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <tr style="background-color:#f1f1f1;">
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Producto</th>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Cantidad</th>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Precio Unitario</th>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">IVA (%)</th>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Descuento (%)</th>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Importe</th>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         </tr>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </thead>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <tbody><tr>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc;">SIERRA DE MESA</td>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:center;">1</td>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:right;">$8,999.00</td>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:right;">16.00%</td>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:right;">0.00%</td>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:right;">$10,438.84</td>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </tr></tbody></table>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <div style="margin-top:30px; text-align:center;">
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <a href="http://tusitio.com/pedidos/ver.php?id=41" 
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:                style="background:#198754; color:white; padding:12px 20px; text-decoration:none; border-radius:6px; font-weight:bold;">
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:                 👉 Ver pedido en sistema
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             </a>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         </div>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </div>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <div style="background-color:#f8f9fa; color:#666; font-size:12px; padding:15px; text-align:center;">
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         Este correo fue generado automáticamente por el sistema de pedidos de Distribuidora Industrial ALexander, no es necesario una respuesta.
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </div>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: </div>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: .
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250 OK id=1upAYC-0000000AenD-3rxG
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: QUIT
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 221 svgs441.serverneubox.com.mx closing connection
+
+[21-Aug-2025 19:02:13 UTC] No se pudo descargar el PDF para pedido #41 desde http://tusitio.com/pedidos/pedido_pdf.php?id=41
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 220-svgs441.serverneubox.com.mx ESMTP Exim 4.98.2 #2 Thu, 21 Aug 2025 13:02:13 -0600 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: EHLO inv.dialexander.com
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250-svgs441.serverneubox.com.mx Hello inv.dialexander.com [65.99.205.95]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: AUTH LOGIN
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: [credentials hidden]
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: [credentials hidden]
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 235 Authentication succeeded
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: MAIL FROM:<ventas@dialexander.com>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250 OK
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: RCPT TO:<rasolis098@gmail.com>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250 Accepted
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: RCPT TO:<ventas@dialexander.com>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250 Accepted
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: DATA
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Date: Thu, 21 Aug 2025 19:02:13 +0000
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: To: rasolis098@gmail.com, ventas@dialexander.com
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: From: Distribuidora Industrial Alexander <ventas@dialexander.com>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Subject: =?UTF-8?Q?=F0=9F=94=94_Pedido_pendiente_#41?=
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Message-ID: <7r0Zr26951r40CiB1gZJD7Jas7GERgmxZ11oJEepyo@inv.dialexander.com>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: X-Mailer: PHPMailer 6.10.0 (https://github.com/PHPMailer/PHPMailer)
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: MIME-Version: 1.0
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: <div style="font-family:Arial, sans-serif; max-width:700px; margin:0 auto; border:1px solid #ddd; border-radius:8px; overflow:hidden; box-shadow:0 2px 5px rgba(0,0,0,0.1);">
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <div style="background-color:#0d6efd; color:white; padding:20px;">
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <h2 style="margin:0;">🔔 Nuevo Pedido Pendiente</h2>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </div>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <div style="padding:20px;">
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Número de pedido:</strong> 41</p>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Cliente:</strong> [22] Cliente Prueba</p>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Fecha de creación:</strong> 2025-08-21 13:02:13</p>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Fecha de entrega:</strong> 2025-08-22</p>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Total:</strong> $10,438.84</p>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Observaciones:</strong> Sin comentarios</p>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <h3 style="margin-top:30px;">📦 Productos del pedido:</h3>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <table style="width:100%; border-collapse:collapse; margin-top:10px; font-size:13px;">
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <thead>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <tr style="background-color:#f1f1f1;">
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Producto</th>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Cantidad</th>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Precio Unitario</th>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">IVA (%)</th>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Descuento (%)</th>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Importe</th>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         </tr>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </thead>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <tbody><tr>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc;">SIERRA DE MESA</td>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:center;">1</td>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:right;">$8,999.00</td>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:right;">16.00%</td>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:right;">0.00%</td>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:right;">$10,438.84</td>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </tr></tbody></table>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <div style="margin-top:30px; text-align:center;">
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <a href="http://tusitio.com/pedidos/ver.php?id=41" 
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:                style="background:#198754; color:white; padding:12px 20px; text-decoration:none; border-radius:6px; font-weight:bold;">
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:                 👉 Ver pedido en sistema
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             </a>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         </div>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </div>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <div style="background-color:#f8f9fa; color:#666; font-size:12px; padding:15px; text-align:center;">
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         Este correo fue generado automáticamente por el sistema de pedidos de Distribuidora Industrial ALexander, no es necesario una respuesta.
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </div>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: </div>
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: .
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250 OK id=1upAYD-0000000AenH-0dGd
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: QUIT
+
+[21-Aug-2025 19:02:13 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 221 svgs441.serverneubox.com.mx closing connection
+
+[29-Aug-2025 22:32:40 UTC] PHP Warning:  Undefined array key "iva" in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 39
+[29-Aug-2025 22:32:40 UTC] PHP Warning:  Undefined array key "iva" in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 433
+[24-Sep-2025 21:40:58 UTC] PHP Fatal error:  Uncaught PDOException: There is no active transaction in /home/dialexan/inv.dialexander.com/pedidos/completar_pedido.php:205
+Stack trace:
+#0 /home/dialexan/inv.dialexander.com/pedidos/completar_pedido.php(205): PDO->rollBack()
+#1 {main}
+  thrown in /home/dialexan/inv.dialexander.com/pedidos/completar_pedido.php on line 205
+[24-Sep-2025 21:43:17 UTC] === INICIANDO completar_pedido.php ===
+[24-Sep-2025 21:43:17 UTC] GET id: 45
+[24-Sep-2025 21:43:17 UTC] Procesando pedido ID: 45
+[24-Sep-2025 21:43:17 UTC] Datos del pedido: Array
+(
+    [id] => 45
+    [cliente_id] => 15
+    [cotizacion_origen_id] => 35
+    [fecha] => 2025-09-24 00:00:00
+    [fecha_entrega] => 
+    [total] => 1499.00
+    [observaciones] => 
+    [estado] => 
+    [correo_enviado] => 0
+    [intentos_envio] => 0
+    [fecha_ultimo_intento] => 
+)
+
+[24-Sep-2025 21:43:17 UTC] Usuario ID: 1, Empleado ID: 1
+[24-Sep-2025 21:43:17 UTC] Transacción iniciada
+[24-Sep-2025 21:43:17 UTC] Número de factura: F-20250924-0045
+[24-Sep-2025 21:43:17 UTC] Venta creada ID: 133
+[24-Sep-2025 21:43:17 UTC] Advertencia en items: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dialexan_inventariosystem.pedidos_items' doesn't exist
+[24-Sep-2025 21:43:17 UTC] Estado del pedido actualizado a 'completado'
+[24-Sep-2025 21:43:17 UTC] Transacción confirmada
+[24-Sep-2025 21:43:17 UTC] Proceso completado exitosamente
+[25-Sep-2025 03:17:39 UTC] === INICIANDO completar_pedido.php ===
+[25-Sep-2025 03:17:39 UTC] GET id: 41
+[25-Sep-2025 03:17:39 UTC] Procesando pedido ID: 41
+[25-Sep-2025 03:17:39 UTC] Datos del pedido: Array
+(
+    [id] => 41
+    [cliente_id] => 22
+    [cotizacion_origen_id] => 
+    [fecha] => 2025-08-21 13:02:13
+    [fecha_entrega] => 2025-08-22
+    [total] => 10438.84
+    [observaciones] => 
+    [estado] => pendiente
+    [correo_enviado] => 1
+    [intentos_envio] => 2
+    [fecha_ultimo_intento] => 2025-08-21 13:02:13
+)
+
+[25-Sep-2025 03:17:39 UTC] Usuario ID: 3, Empleado ID: 1
+[25-Sep-2025 03:17:39 UTC] Transacción iniciada
+[25-Sep-2025 03:17:39 UTC] Número de factura: F-20250925-0041
+[25-Sep-2025 03:17:39 UTC] Venta creada ID: 134
+[25-Sep-2025 03:17:39 UTC] Advertencia en items: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dialexan_inventariosystem.pedidos_items' doesn't exist
+[25-Sep-2025 03:17:39 UTC] Estado del pedido actualizado a 'completado'
+[25-Sep-2025 03:17:39 UTC] Transacción confirmada
+[25-Sep-2025 03:17:39 UTC] Proceso completado exitosamente
+[25-Sep-2025 03:18:21 UTC] === INICIANDO completar_pedido.php ===
+[25-Sep-2025 03:18:21 UTC] GET id: 40
+[25-Sep-2025 03:18:21 UTC] Procesando pedido ID: 40
+[25-Sep-2025 03:18:21 UTC] Datos del pedido: Array
+(
+    [id] => 40
+    [cliente_id] => 22
+    [cotizacion_origen_id] => 
+    [fecha] => 2025-07-29 15:56:18
+    [fecha_entrega] => 2025-07-31
+    [total] => 2118.94
+    [observaciones] => 
+    [estado] => pendiente
+    [correo_enviado] => 1
+    [intentos_envio] => 2
+    [fecha_ultimo_intento] => 2025-07-29 15:56:19
+)
+
+[25-Sep-2025 03:18:21 UTC] Usuario ID: 3, Empleado ID: 1
+[25-Sep-2025 03:18:21 UTC] Transacción iniciada
+[25-Sep-2025 03:18:21 UTC] Número de factura: F-20250925-0040
+[25-Sep-2025 03:18:21 UTC] Venta creada ID: 135
+[25-Sep-2025 03:18:21 UTC] Advertencia en items: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dialexan_inventariosystem.pedidos_items' doesn't exist
+[25-Sep-2025 03:18:21 UTC] Estado del pedido actualizado a 'completado'
+[25-Sep-2025 03:18:21 UTC] Transacción confirmada
+[25-Sep-2025 03:18:21 UTC] Proceso completado exitosamente
+[25-Sep-2025 18:30:53 UTC] === INICIANDO completar_pedido.php ===
+[25-Sep-2025 18:30:53 UTC] GET id: 46
+[25-Sep-2025 18:30:53 UTC] Procesando pedido ID: 46
+[25-Sep-2025 18:30:53 UTC] Datos del pedido: Array
+(
+    [id] => 46
+    [cliente_id] => 7
+    [cotizacion_origen_id] => 48
+    [fecha] => 2025-09-25 00:00:00
+    [fecha_entrega] => 
+    [total] => 8000.00
+    [observaciones] => 
+    [estado] => 
+    [correo_enviado] => 0
+    [intentos_envio] => 0
+    [fecha_ultimo_intento] => 
+)
+
+[25-Sep-2025 18:30:53 UTC] Usuario ID: 7, Empleado ID: 11
+[25-Sep-2025 18:30:53 UTC] Transacción iniciada
+[25-Sep-2025 18:30:53 UTC] Número de factura: F-20250925-0046
+[25-Sep-2025 18:30:53 UTC] Venta creada ID: 137
+[25-Sep-2025 18:30:53 UTC] Advertencia en items: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dialexan_inventariosystem.pedidos_items' doesn't exist
+[25-Sep-2025 18:30:53 UTC] Estado del pedido actualizado a 'completado'
+[25-Sep-2025 18:30:53 UTC] Transacción confirmada
+[25-Sep-2025 18:30:53 UTC] Proceso completado exitosamente
+[25-Sep-2025 23:19:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dialexan/inv.dialexander.com/includes/header.php:13) in /home/dialexan/inv.dialexander.com/pedidos/editar_pedido.php on line 95
+[25-Sep-2025 23:26:08 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/dialexan/inv.dialexander.com/includes/header.php on line 3
+[25-Sep-2025 23:26:58 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/dialexan/inv.dialexander.com/includes/header.php on line 3
+[25-Sep-2025 23:27:48 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/dialexan/inv.dialexander.com/includes/header.php on line 3
+[25-Sep-2025 23:28:10 UTC] === INICIANDO completar_pedido.php ===
+[25-Sep-2025 23:28:10 UTC] GET id: 46
+[25-Sep-2025 23:28:10 UTC] Procesando pedido ID: 46
+[25-Sep-2025 23:28:10 UTC] Datos del pedido: Array
+(
+    [id] => 46
+    [cliente_id] => 7
+    [cotizacion_origen_id] => 48
+    [fecha] => 2025-09-25 00:00:00
+    [fecha_entrega] => 2025-09-25
+    [total] => 9280.00
+    [observaciones] => 
+    [estado] => 
+    [correo_enviado] => 0
+    [intentos_envio] => 0
+    [fecha_ultimo_intento] => 
+)
+
+[25-Sep-2025 23:28:10 UTC] Usuario ID: 1, Empleado ID: 199
+[25-Sep-2025 23:28:10 UTC] Transacción iniciada
+[25-Sep-2025 23:28:10 UTC] Número de factura: F-20250925-0046
+[25-Sep-2025 23:28:10 UTC] Venta creada ID: 138
+[25-Sep-2025 23:28:10 UTC] Advertencia en items: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dialexan_inventariosystem.pedidos_items' doesn't exist
+[25-Sep-2025 23:28:10 UTC] Estado del pedido actualizado a 'completado'
+[25-Sep-2025 23:28:10 UTC] Transacción confirmada
+[25-Sep-2025 23:28:10 UTC] Proceso completado exitosamente
+[25-Sep-2025 23:28:20 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/dialexan/inv.dialexander.com/includes/header.php on line 3
+[25-Sep-2025 23:36:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/dialexan/inv.dialexander.com/includes/header.php on line 3
+[25-Sep-2025 23:37:56 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/dialexan/inv.dialexander.com/includes/header.php on line 3
+[25-Sep-2025 23:37:56 UTC] PHP Warning:  Undefined variable $subtotal in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 144
+[25-Sep-2025 23:37:56 UTC] PHP Warning:  Undefined variable $descuento_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 145
+[25-Sep-2025 23:37:56 UTC] PHP Warning:  Undefined variable $iva_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 146
+[25-Sep-2025 23:44:25 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/dialexan/inv.dialexander.com/includes/header.php on line 3
+[25-Sep-2025 23:44:25 UTC] PHP Warning:  Undefined variable $subtotal in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 144
+[25-Sep-2025 23:44:25 UTC] PHP Warning:  Undefined variable $descuento_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 145
+[25-Sep-2025 23:44:25 UTC] PHP Warning:  Undefined variable $iva_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 146
+[25-Sep-2025 23:47:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/dialexan/inv.dialexander.com/includes/header.php on line 3
+[25-Sep-2025 23:47:28 UTC] PHP Warning:  Undefined variable $subtotal in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 144
+[25-Sep-2025 23:47:28 UTC] PHP Warning:  Undefined variable $descuento_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 145
+[25-Sep-2025 23:47:28 UTC] PHP Warning:  Undefined variable $iva_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 146
+[25-Sep-2025 23:51:26 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/dialexan/inv.dialexander.com/includes/header.php on line 3
+[25-Sep-2025 23:51:26 UTC] PHP Warning:  Undefined variable $subtotal in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 144
+[25-Sep-2025 23:51:26 UTC] PHP Warning:  Undefined variable $descuento_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 145
+[25-Sep-2025 23:51:26 UTC] PHP Warning:  Undefined variable $iva_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 146
+[26-Sep-2025 01:31:32 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/dialexan/inv.dialexander.com/includes/header.php on line 3
+[26-Sep-2025 01:31:36 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/dialexan/inv.dialexander.com/includes/header.php on line 3
+[26-Sep-2025 01:31:36 UTC] PHP Warning:  Undefined variable $subtotal in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 144
+[26-Sep-2025 01:31:36 UTC] PHP Warning:  Undefined variable $descuento_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 145
+[26-Sep-2025 01:31:36 UTC] PHP Warning:  Undefined variable $iva_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 146
+[26-Sep-2025 01:31:51 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/dialexan/inv.dialexander.com/includes/header.php on line 3
+[26-Sep-2025 16:06:49 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/dialexan/inv.dialexander.com/includes/header.php on line 3
+[26-Sep-2025 16:06:49 UTC] PHP Warning:  Undefined variable $subtotal in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 144
+[26-Sep-2025 16:06:49 UTC] PHP Warning:  Undefined variable $descuento_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 145
+[26-Sep-2025 16:06:49 UTC] PHP Warning:  Undefined variable $iva_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 146
+[26-Sep-2025 16:06:53 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/dialexan/inv.dialexander.com/includes/header.php on line 3
+[26-Sep-2025 16:06:56 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/dialexan/inv.dialexander.com/includes/header.php on line 3
+[26-Sep-2025 16:06:56 UTC] PHP Warning:  Undefined variable $subtotal in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 144
+[26-Sep-2025 16:06:56 UTC] PHP Warning:  Undefined variable $descuento_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 145
+[26-Sep-2025 16:06:56 UTC] PHP Warning:  Undefined variable $iva_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 146
+[26-Sep-2025 16:06:59 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/dialexan/inv.dialexander.com/includes/header.php on line 3
+[26-Sep-2025 16:09:48 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/dialexan/inv.dialexander.com/includes/header.php on line 3
+[26-Sep-2025 16:15:20 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/dialexan/inv.dialexander.com/includes/header.php on line 3
+[26-Sep-2025 16:16:16 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/dialexan/inv.dialexander.com/includes/header.php on line 3
+[26-Sep-2025 16:16:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dialexan/inv.dialexander.com/includes/header.php:13) in /home/dialexan/inv.dialexander.com/pedidos/editar_pedido.php on line 62
+[26-Sep-2025 16:19:22 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/dialexan/inv.dialexander.com/includes/header.php on line 3
+[26-Sep-2025 16:19:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dialexan/inv.dialexander.com/includes/header.php:13) in /home/dialexan/inv.dialexander.com/pedidos/editar_pedido.php on line 68
+[26-Sep-2025 16:19:25 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/dialexan/inv.dialexander.com/includes/header.php on line 3
+[26-Sep-2025 16:19:27 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/dialexan/inv.dialexander.com/includes/header.php on line 3
+[26-Sep-2025 16:21:46 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/dialexan/inv.dialexander.com/includes/header.php on line 3
+[26-Sep-2025 16:22:04 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/dialexan/inv.dialexander.com/includes/header.php on line 3
+[26-Sep-2025 16:22:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dialexan/inv.dialexander.com/includes/header.php:13) in /home/dialexan/inv.dialexander.com/pedidos/editar_pedido.php on line 65
+[26-Sep-2025 16:25:59 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/dialexan/inv.dialexander.com/includes/header.php on line 3
+[26-Sep-2025 16:25:59 UTC] PHP Warning:  Undefined variable $subtotal in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 144
+[26-Sep-2025 16:25:59 UTC] PHP Warning:  Undefined variable $descuento_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 145
+[26-Sep-2025 16:25:59 UTC] PHP Warning:  Undefined variable $iva_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 146
+[26-Sep-2025 16:26:08 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/dialexan/inv.dialexander.com/includes/header.php on line 3
+[26-Sep-2025 16:26:08 UTC] PHP Warning:  Undefined variable $subtotal in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 144
+[26-Sep-2025 16:26:08 UTC] PHP Warning:  Undefined variable $descuento_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 145
+[26-Sep-2025 16:26:08 UTC] PHP Warning:  Undefined variable $iva_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 146
+[26-Sep-2025 16:26:10 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/dialexan/inv.dialexander.com/includes/header.php on line 3
+[26-Sep-2025 16:26:10 UTC] PHP Warning:  Undefined variable $subtotal in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 144
+[26-Sep-2025 16:26:10 UTC] PHP Warning:  Undefined variable $descuento_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 145
+[26-Sep-2025 16:26:10 UTC] PHP Warning:  Undefined variable $iva_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 146
+[26-Sep-2025 16:26:11 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/dialexan/inv.dialexander.com/includes/header.php on line 3
+[26-Sep-2025 16:26:11 UTC] PHP Warning:  Undefined variable $subtotal in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 144
+[26-Sep-2025 16:26:11 UTC] PHP Warning:  Undefined variable $descuento_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 145
+[26-Sep-2025 16:26:11 UTC] PHP Warning:  Undefined variable $iva_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 146
+[26-Sep-2025 16:26:11 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/dialexan/inv.dialexander.com/includes/header.php on line 3
+[26-Sep-2025 16:26:11 UTC] PHP Warning:  Undefined variable $subtotal in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 144
+[26-Sep-2025 16:26:11 UTC] PHP Warning:  Undefined variable $descuento_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 145
+[26-Sep-2025 16:26:11 UTC] PHP Warning:  Undefined variable $iva_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 146
+[26-Sep-2025 16:26:11 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/dialexan/inv.dialexander.com/includes/header.php on line 3
+[26-Sep-2025 16:26:11 UTC] PHP Warning:  Undefined variable $subtotal in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 144
+[26-Sep-2025 16:26:11 UTC] PHP Warning:  Undefined variable $descuento_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 145
+[26-Sep-2025 16:26:11 UTC] PHP Warning:  Undefined variable $iva_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 146
+[26-Sep-2025 16:26:11 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/dialexan/inv.dialexander.com/includes/header.php on line 3
+[26-Sep-2025 16:26:11 UTC] PHP Warning:  Undefined variable $subtotal in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 144
+[26-Sep-2025 16:26:11 UTC] PHP Warning:  Undefined variable $descuento_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 145
+[26-Sep-2025 16:26:11 UTC] PHP Warning:  Undefined variable $iva_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 146
+[26-Sep-2025 16:27:52 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/dialexan/inv.dialexander.com/includes/header.php on line 3
+[26-Sep-2025 16:27:56 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/dialexan/inv.dialexander.com/includes/header.php on line 3
+[26-Sep-2025 16:28:29 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/dialexan/inv.dialexander.com/includes/header.php on line 3
+[26-Sep-2025 18:58:17 UTC] PHP Warning:  Undefined variable $subtotal in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 144
+[26-Sep-2025 18:58:17 UTC] PHP Warning:  Undefined variable $descuento_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 145
+[26-Sep-2025 18:58:17 UTC] PHP Warning:  Undefined variable $iva_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 146
+[26-Sep-2025 19:00:12 UTC] PHP Warning:  Undefined variable $subtotal in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 144
+[26-Sep-2025 19:00:12 UTC] PHP Warning:  Undefined variable $descuento_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 145
+[26-Sep-2025 19:00:12 UTC] PHP Warning:  Undefined variable $iva_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 146
+[26-Sep-2025 19:01:55 UTC] PHP Warning:  Undefined variable $subtotal in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 144
+[26-Sep-2025 19:01:55 UTC] PHP Warning:  Undefined variable $descuento_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 145
+[26-Sep-2025 19:01:55 UTC] PHP Warning:  Undefined variable $iva_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 146
+[26-Sep-2025 19:02:01 UTC] PHP Warning:  Undefined variable $subtotal in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 144
+[26-Sep-2025 19:02:01 UTC] PHP Warning:  Undefined variable $descuento_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 145
+[26-Sep-2025 19:02:01 UTC] PHP Warning:  Undefined variable $iva_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 146
+[26-Sep-2025 19:10:27 UTC] PHP Parse error:  syntax error, unexpected identifier "�0�2", expecting "]" in /home/dialexan/inv.dialexander.com/pedidos/index.php on line 17
+[26-Sep-2025 19:11:24 UTC] PHP Parse error:  syntax error, unexpected identifier " ", expecting "]" in /home/dialexan/inv.dialexander.com/pedidos/index.php on line 17
+[26-Sep-2025 19:11:26 UTC] PHP Parse error:  syntax error, unexpected identifier " ", expecting "]" in /home/dialexan/inv.dialexander.com/pedidos/index.php on line 17
+[26-Sep-2025 19:13:01 UTC] PHP Parse error:  syntax error, unexpected identifier " ", expecting "]" in /home/dialexan/inv.dialexander.com/pedidos/index.php on line 17
+[26-Sep-2025 19:13:03 UTC] PHP Parse error:  syntax error, unexpected identifier " ", expecting "]" in /home/dialexan/inv.dialexander.com/pedidos/index.php on line 17
+[26-Sep-2025 19:17:05 UTC] PHP Parse error:  syntax error, unexpected identifier " ", expecting "]" in /home/dialexan/inv.dialexander.com/pedidos/index.php on line 9
+[26-Sep-2025 19:17:11 UTC] PHP Parse error:  syntax error, unexpected identifier " ", expecting "]" in /home/dialexan/inv.dialexander.com/pedidos/index.php on line 9
+[26-Sep-2025 19:17:17 UTC] PHP Parse error:  syntax error, unexpected identifier " ", expecting "]" in /home/dialexan/inv.dialexander.com/pedidos/index.php on line 9
+[26-Sep-2025 19:17:17 UTC] PHP Parse error:  syntax error, unexpected identifier " ", expecting "]" in /home/dialexan/inv.dialexander.com/pedidos/index.php on line 9
+[26-Sep-2025 19:17:17 UTC] PHP Parse error:  syntax error, unexpected identifier " ", expecting "]" in /home/dialexan/inv.dialexander.com/pedidos/index.php on line 9
+[26-Sep-2025 19:17:18 UTC] PHP Parse error:  syntax error, unexpected identifier " ", expecting "]" in /home/dialexan/inv.dialexander.com/pedidos/index.php on line 9
+[26-Sep-2025 19:17:18 UTC] PHP Parse error:  syntax error, unexpected identifier " ", expecting "]" in /home/dialexan/inv.dialexander.com/pedidos/index.php on line 9
+[26-Sep-2025 19:17:18 UTC] PHP Parse error:  syntax error, unexpected identifier " ", expecting "]" in /home/dialexan/inv.dialexander.com/pedidos/index.php on line 9
+[26-Sep-2025 19:17:18 UTC] PHP Parse error:  syntax error, unexpected identifier " ", expecting "]" in /home/dialexan/inv.dialexander.com/pedidos/index.php on line 9
+[26-Sep-2025 19:17:18 UTC] PHP Parse error:  syntax error, unexpected identifier " ", expecting "]" in /home/dialexan/inv.dialexander.com/pedidos/index.php on line 9
+[26-Sep-2025 19:17:18 UTC] PHP Parse error:  syntax error, unexpected identifier " ", expecting "]" in /home/dialexan/inv.dialexander.com/pedidos/index.php on line 9
+[26-Sep-2025 19:17:18 UTC] PHP Parse error:  syntax error, unexpected identifier " ", expecting "]" in /home/dialexan/inv.dialexander.com/pedidos/index.php on line 9
+[26-Sep-2025 19:18:49 UTC] PHP Parse error:  syntax error, unexpected identifier " ", expecting "]" in /home/dialexan/inv.dialexander.com/pedidos/index.php on line 9
+[26-Sep-2025 19:20:57 UTC] PHP Parse error:  syntax error, unexpected identifier " ", expecting "]" in /home/dialexan/inv.dialexander.com/pedidos/index.php on line 9
+[26-Sep-2025 19:22:01 UTC] PHP Warning:  Undefined variable $subtotal in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 144
+[26-Sep-2025 19:22:01 UTC] PHP Warning:  Undefined variable $descuento_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 145
+[26-Sep-2025 19:22:01 UTC] PHP Warning:  Undefined variable $iva_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 146
+[26-Sep-2025 19:36:22 UTC] PHP Warning:  require_once(../includes/helpers.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/pedidos/index.php on line 5
+[26-Sep-2025 19:36:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../includes/helpers.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/pedidos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/pedidos/index.php on line 5
+[26-Sep-2025 19:36:26 UTC] PHP Warning:  require_once(../includes/helpers.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/pedidos/index.php on line 5
+[26-Sep-2025 19:36:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../includes/helpers.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/pedidos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/pedidos/index.php on line 5
+[26-Sep-2025 19:36:27 UTC] PHP Warning:  require_once(../includes/helpers.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/pedidos/index.php on line 5
+[26-Sep-2025 19:36:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../includes/helpers.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/pedidos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/pedidos/index.php on line 5
+[26-Sep-2025 19:58:28 UTC] PHP Warning:  Undefined variable $subtotal in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 144
+[26-Sep-2025 19:58:28 UTC] PHP Warning:  Undefined variable $descuento_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 145
+[26-Sep-2025 19:58:28 UTC] PHP Warning:  Undefined variable $iva_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 146
+[26-Sep-2025 19:58:37 UTC] PHP Warning:  Undefined variable $subtotal in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 144
+[26-Sep-2025 19:58:37 UTC] PHP Warning:  Undefined variable $descuento_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 145
+[26-Sep-2025 19:58:37 UTC] PHP Warning:  Undefined variable $iva_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 146
+[26-Sep-2025 19:59:08 UTC] PHP Warning:  Undefined variable $subtotal in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 144
+[26-Sep-2025 19:59:08 UTC] PHP Warning:  Undefined variable $descuento_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 145
+[26-Sep-2025 19:59:08 UTC] PHP Warning:  Undefined variable $iva_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 146
+[26-Sep-2025 20:02:11 UTC] No se pudo descargar el PDF para pedido #47 desde http://tusitio.com/pedidos/pedido_pdf.php?id=47
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 220-svgs441.serverneubox.com.mx ESMTP Exim 4.98.2 #2 Fri, 26 Sep 2025 14:02:11 -0600 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: EHLO inv.dialexander.com
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250-svgs441.serverneubox.com.mx Hello inv.dialexander.com [65.99.205.95]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: AUTH LOGIN
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: [credentials hidden]
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: [credentials hidden]
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 235 Authentication succeeded
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: MAIL FROM:<ventas@dialexander.com>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250 OK
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: RCPT TO:<rasolis098@gmail.com>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250 Accepted
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: RCPT TO:<ventas@dialexander.com>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250 Accepted
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: DATA
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Date: Fri, 26 Sep 2025 20:02:11 +0000
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: To: rasolis098@gmail.com, ventas@dialexander.com
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: From: Distribuidora Industrial Alexander <ventas@dialexander.com>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Subject: =?UTF-8?Q?=F0=9F=94=94_Pedido_pendiente_#47?=
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Message-ID: <L5KPxH1y4UUfI3Cp7t69HUaHd0h3RsJMxVYBSHmc1w@inv.dialexander.com>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: X-Mailer: PHPMailer 6.10.0 (https://github.com/PHPMailer/PHPMailer)
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: MIME-Version: 1.0
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: <div style="font-family:Arial, sans-serif; max-width:700px; margin:0 auto; border:1px solid #ddd; border-radius:8px; overflow:hidden; box-shadow:0 2px 5px rgba(0,0,0,0.1);">
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <div style="background-color:#0d6efd; color:white; padding:20px;">
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <h2 style="margin:0;">🔔 Nuevo Pedido Pendiente</h2>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </div>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <div style="padding:20px;">
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Número de pedido:</strong> 47</p>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Cliente:</strong> [22] Cliente Prueba</p>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Fecha de creación:</strong> 2025-09-26 14:02:11</p>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Fecha de entrega:</strong> 2025-09-26</p>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Total:</strong> $5,742.00</p>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Observaciones:</strong> Sin comentarios</p>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <h3 style="margin-top:30px;">📦 Productos del pedido:</h3>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <table style="width:100%; border-collapse:collapse; margin-top:10px; font-size:13px;">
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <thead>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <tr style="background-color:#f1f1f1;">
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Producto</th>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Cantidad</th>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Precio Unitario</th>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">IVA (%)</th>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Descuento (%)</th>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Importe</th>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         </tr>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </thead>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <tbody><tr>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc;">OLLA PARA PINTAR 9LTS C/MANGUERA Y PISTOLA ALTA PRESION</td>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:center;">1</td>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:right;">$4,950.00</td>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:right;">16.00%</td>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:right;">0.00%</td>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:right;">$5,742.00</td>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </tr></tbody></table>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <div style="margin-top:30px; text-align:center;">
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <a href="http://tusitio.com/pedidos/ver.php?id=47" 
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:                style="background:#198754; color:white; padding:12px 20px; text-decoration:none; border-radius:6px; font-weight:bold;">
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:                 👉 Ver pedido en sistema
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             </a>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         </div>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </div>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <div style="background-color:#f8f9fa; color:#666; font-size:12px; padding:15px; text-align:center;">
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         Este correo fue generado automáticamente por el sistema de pedidos de Distribuidora Industrial ALexander, no es necesario una respuesta.
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </div>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: </div>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: .
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250 OK id=1v2Edx-00000003jPy-084l
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: QUIT
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 221 svgs441.serverneubox.com.mx closing connection
+
+[26-Sep-2025 20:02:11 UTC] No se pudo descargar el PDF para pedido #47 desde http://tusitio.com/pedidos/pedido_pdf.php?id=47
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 220-svgs441.serverneubox.com.mx ESMTP Exim 4.98.2 #2 Fri, 26 Sep 2025 14:02:11 -0600 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: EHLO inv.dialexander.com
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250-svgs441.serverneubox.com.mx Hello inv.dialexander.com [65.99.205.95]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: AUTH LOGIN
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: [credentials hidden]
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: [credentials hidden]
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 235 Authentication succeeded
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: MAIL FROM:<ventas@dialexander.com>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250 OK
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: RCPT TO:<rasolis098@gmail.com>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250 Accepted
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: RCPT TO:<ventas@dialexander.com>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250 Accepted
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: DATA
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Date: Fri, 26 Sep 2025 20:02:11 +0000
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: To: rasolis098@gmail.com, ventas@dialexander.com
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: From: Distribuidora Industrial Alexander <ventas@dialexander.com>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Subject: =?UTF-8?Q?=F0=9F=94=94_Pedido_pendiente_#47?=
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Message-ID: <48kx3dWQS2uF6SKqbotmSOU8Q8KIRWjLaE8XXM9B8@inv.dialexander.com>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: X-Mailer: PHPMailer 6.10.0 (https://github.com/PHPMailer/PHPMailer)
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: MIME-Version: 1.0
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: <div style="font-family:Arial, sans-serif; max-width:700px; margin:0 auto; border:1px solid #ddd; border-radius:8px; overflow:hidden; box-shadow:0 2px 5px rgba(0,0,0,0.1);">
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <div style="background-color:#0d6efd; color:white; padding:20px;">
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <h2 style="margin:0;">🔔 Nuevo Pedido Pendiente</h2>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </div>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <div style="padding:20px;">
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Número de pedido:</strong> 47</p>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Cliente:</strong> [22] Cliente Prueba</p>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Fecha de creación:</strong> 2025-09-26 14:02:11</p>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Fecha de entrega:</strong> 2025-09-26</p>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Total:</strong> $5,742.00</p>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Observaciones:</strong> Sin comentarios</p>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <h3 style="margin-top:30px;">📦 Productos del pedido:</h3>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <table style="width:100%; border-collapse:collapse; margin-top:10px; font-size:13px;">
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <thead>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <tr style="background-color:#f1f1f1;">
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Producto</th>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Cantidad</th>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Precio Unitario</th>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">IVA (%)</th>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Descuento (%)</th>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Importe</th>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         </tr>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </thead>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <tbody><tr>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc;">OLLA PARA PINTAR 9LTS C/MANGUERA Y PISTOLA ALTA PRESION</td>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:center;">1</td>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:right;">$4,950.00</td>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:right;">16.00%</td>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:right;">0.00%</td>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:right;">$5,742.00</td>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </tr></tbody></table>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <div style="margin-top:30px; text-align:center;">
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <a href="http://tusitio.com/pedidos/ver.php?id=47" 
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:                style="background:#198754; color:white; padding:12px 20px; text-decoration:none; border-radius:6px; font-weight:bold;">
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:                 👉 Ver pedido en sistema
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             </a>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         </div>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </div>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <div style="background-color:#f8f9fa; color:#666; font-size:12px; padding:15px; text-align:center;">
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         Este correo fue generado automáticamente por el sistema de pedidos de Distribuidora Industrial ALexander, no es necesario una respuesta.
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </div>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: </div>
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: .
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250 OK id=1v2Edx-00000003jQ5-0clH
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: QUIT
+
+[26-Sep-2025 20:02:11 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 221 svgs441.serverneubox.com.mx closing connection
+
+[26-Sep-2025 20:02:11 UTC] PHP Warning:  Undefined variable $subtotal in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 144
+[26-Sep-2025 20:02:11 UTC] PHP Warning:  Undefined variable $descuento_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 145
+[26-Sep-2025 20:02:11 UTC] PHP Warning:  Undefined variable $iva_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 146
+[26-Sep-2025 20:13:14 UTC] PHP Warning:  Undefined variable $subtotal in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 144
+[26-Sep-2025 20:13:14 UTC] PHP Warning:  Undefined variable $descuento_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 145
+[26-Sep-2025 20:13:14 UTC] PHP Warning:  Undefined variable $iva_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 146
+[26-Sep-2025 20:13:58 UTC] Error de base de datos: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '... FROM pedidos' at line 1
+[26-Sep-2025 20:14:05 UTC] Error de base de datos: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '... FROM pedidos' at line 1
+[26-Sep-2025 20:20:23 UTC] PHP Warning:  Undefined variable $subtotal in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 144
+[26-Sep-2025 20:20:23 UTC] PHP Warning:  Undefined variable $descuento_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 145
+[26-Sep-2025 20:20:23 UTC] PHP Warning:  Undefined variable $iva_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 146
+[26-Sep-2025 20:20:48 UTC] No se pudo descargar el PDF para pedido #50 desde http://tusitio.com/pedidos/pedido_pdf.php?id=50
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 220-svgs441.serverneubox.com.mx ESMTP Exim 4.98.2 #2 Fri, 26 Sep 2025 14:20:48 -0600 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: EHLO inv.dialexander.com
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250-svgs441.serverneubox.com.mx Hello inv.dialexander.com [65.99.205.95]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: AUTH LOGIN
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: [credentials hidden]
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: [credentials hidden]
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 235 Authentication succeeded
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: MAIL FROM:<ventas@dialexander.com>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250 OK
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: RCPT TO:<rasolis098@gmail.com>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250 Accepted
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: RCPT TO:<ventas@dialexander.com>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250 Accepted
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: DATA
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Date: Fri, 26 Sep 2025 20:20:48 +0000
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: To: rasolis098@gmail.com, ventas@dialexander.com
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: From: Distribuidora Industrial Alexander <ventas@dialexander.com>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Subject: =?UTF-8?Q?=F0=9F=94=94_Pedido_pendiente_#50?=
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Message-ID: <2HcArUqyKD9DS46v6yZFxi0WLKWHuW73mRytsoQq84@inv.dialexander.com>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: X-Mailer: PHPMailer 6.10.0 (https://github.com/PHPMailer/PHPMailer)
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: MIME-Version: 1.0
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: <div style="font-family:Arial, sans-serif; max-width:700px; margin:0 auto; border:1px solid #ddd; border-radius:8px; overflow:hidden; box-shadow:0 2px 5px rgba(0,0,0,0.1);">
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <div style="background-color:#0d6efd; color:white; padding:20px;">
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <h2 style="margin:0;">🔔 Nuevo Pedido Pendiente</h2>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </div>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <div style="padding:20px;">
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Número de pedido:</strong> 50</p>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Cliente:</strong> [22] Cliente Prueba</p>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Fecha de creación:</strong> 2025-09-26 14:20:48</p>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Fecha de entrega:</strong> 2025-09-26</p>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Total:</strong> $5,742.00</p>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Observaciones:</strong> Sin comentarios</p>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <h3 style="margin-top:30px;">📦 Productos del pedido:</h3>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <table style="width:100%; border-collapse:collapse; margin-top:10px; font-size:13px;">
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <thead>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <tr style="background-color:#f1f1f1;">
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Producto</th>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Cantidad</th>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Precio Unitario</th>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">IVA (%)</th>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Descuento (%)</th>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Importe</th>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         </tr>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </thead>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <tbody><tr>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc;">OLLA PARA PINTAR 9LTS C/MANGUERA Y PISTOLA ALTA PRESION</td>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:center;">1</td>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:right;">$4,950.00</td>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:right;">16.00%</td>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:right;">0.00%</td>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:right;">$5,742.00</td>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </tr></tbody></table>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <div style="margin-top:30px; text-align:center;">
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <a href="http://tusitio.com/pedidos/ver.php?id=50" 
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:                style="background:#198754; color:white; padding:12px 20px; text-decoration:none; border-radius:6px; font-weight:bold;">
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:                 👉 Ver pedido en sistema
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             </a>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         </div>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </div>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <div style="background-color:#f8f9fa; color:#666; font-size:12px; padding:15px; text-align:center;">
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         Este correo fue generado automáticamente por el sistema de pedidos de Distribuidora Industrial ALexander, no es necesario una respuesta.
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </div>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: </div>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: .
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250 OK id=1v2Evx-00000003oin-4BmH
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: QUIT
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 221 svgs441.serverneubox.com.mx closing connection
+
+[26-Sep-2025 20:20:48 UTC] No se pudo descargar el PDF para pedido #50 desde http://tusitio.com/pedidos/pedido_pdf.php?id=50
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 220-svgs441.serverneubox.com.mx ESMTP Exim 4.98.2 #2 Fri, 26 Sep 2025 14:20:48 -0600 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: EHLO inv.dialexander.com
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250-svgs441.serverneubox.com.mx Hello inv.dialexander.com [65.99.205.95]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: AUTH LOGIN
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: [credentials hidden]
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: [credentials hidden]
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 235 Authentication succeeded
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: MAIL FROM:<ventas@dialexander.com>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250 OK
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: RCPT TO:<rasolis098@gmail.com>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250 Accepted
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: RCPT TO:<ventas@dialexander.com>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250 Accepted
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: DATA
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Date: Fri, 26 Sep 2025 20:20:48 +0000
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: To: rasolis098@gmail.com, ventas@dialexander.com
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: From: Distribuidora Industrial Alexander <ventas@dialexander.com>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Subject: =?UTF-8?Q?=F0=9F=94=94_Pedido_pendiente_#50?=
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Message-ID: <KGWnlVr7aQYhJ3m8Ji2HWCsMnCyjtlRKzkd8ZPmk@inv.dialexander.com>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: X-Mailer: PHPMailer 6.10.0 (https://github.com/PHPMailer/PHPMailer)
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: MIME-Version: 1.0
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: <div style="font-family:Arial, sans-serif; max-width:700px; margin:0 auto; border:1px solid #ddd; border-radius:8px; overflow:hidden; box-shadow:0 2px 5px rgba(0,0,0,0.1);">
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <div style="background-color:#0d6efd; color:white; padding:20px;">
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <h2 style="margin:0;">🔔 Nuevo Pedido Pendiente</h2>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </div>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <div style="padding:20px;">
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Número de pedido:</strong> 50</p>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Cliente:</strong> [22] Cliente Prueba</p>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Fecha de creación:</strong> 2025-09-26 14:20:48</p>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Fecha de entrega:</strong> 2025-09-26</p>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Total:</strong> $5,742.00</p>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Observaciones:</strong> Sin comentarios</p>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <h3 style="margin-top:30px;">📦 Productos del pedido:</h3>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <table style="width:100%; border-collapse:collapse; margin-top:10px; font-size:13px;">
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <thead>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <tr style="background-color:#f1f1f1;">
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Producto</th>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Cantidad</th>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Precio Unitario</th>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">IVA (%)</th>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Descuento (%)</th>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Importe</th>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         </tr>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </thead>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <tbody><tr>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc;">OLLA PARA PINTAR 9LTS C/MANGUERA Y PISTOLA ALTA PRESION</td>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:center;">1</td>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:right;">$4,950.00</td>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:right;">16.00%</td>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:right;">0.00%</td>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:right;">$5,742.00</td>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </tr></tbody></table>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <div style="margin-top:30px; text-align:center;">
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <a href="http://tusitio.com/pedidos/ver.php?id=50" 
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:                style="background:#198754; color:white; padding:12px 20px; text-decoration:none; border-radius:6px; font-weight:bold;">
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:                 👉 Ver pedido en sistema
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             </a>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         </div>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </div>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <div style="background-color:#f8f9fa; color:#666; font-size:12px; padding:15px; text-align:center;">
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         Este correo fue generado automáticamente por el sistema de pedidos de Distribuidora Industrial ALexander, no es necesario una respuesta.
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </div>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: </div>
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: .
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250 OK id=1v2Evy-00000003oit-0ikF
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: QUIT
+
+[26-Sep-2025 20:20:48 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 221 svgs441.serverneubox.com.mx closing connection
+
+[26-Sep-2025 20:20:48 UTC] PHP Warning:  Undefined variable $subtotal in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 144
+[26-Sep-2025 20:20:48 UTC] PHP Warning:  Undefined variable $descuento_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 145
+[26-Sep-2025 20:20:48 UTC] PHP Warning:  Undefined variable $iva_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 146
+[26-Sep-2025 20:29:24 UTC] No se pudo descargar el PDF para pedido #51 desde http://tusitio.com/pedidos/pedido_pdf.php?id=51
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 220-svgs441.serverneubox.com.mx ESMTP Exim 4.98.2 #2 Fri, 26 Sep 2025 14:29:24 -0600 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: EHLO inv.dialexander.com
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250-svgs441.serverneubox.com.mx Hello inv.dialexander.com [65.99.205.95]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: AUTH LOGIN
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: [credentials hidden]
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: [credentials hidden]
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 235 Authentication succeeded
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: MAIL FROM:<ventas@dialexander.com>
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250 OK
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: RCPT TO:<rasolis098@gmail.com>
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250 Accepted
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: RCPT TO:<ventas@dialexander.com>
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250 Accepted
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: DATA
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Date: Fri, 26 Sep 2025 20:29:24 +0000
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: To: rasolis098@gmail.com, ventas@dialexander.com
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: From: Distribuidora Industrial Alexander <ventas@dialexander.com>
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Subject: =?UTF-8?Q?=F0=9F=94=94_Pedido_pendiente_#51?=
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Message-ID: <698KRJlOaaoFwMrvmMk8gAu5sORKJplJ2fbbRfRLLw@inv.dialexander.com>
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: X-Mailer: PHPMailer 6.10.0 (https://github.com/PHPMailer/PHPMailer)
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: MIME-Version: 1.0
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: <div style="font-family:Arial, sans-serif; max-width:700px; margin:0 auto; border:1px solid #ddd; border-radius:8px; overflow:hidden; box-shadow:0 2px 5px rgba(0,0,0,0.1);">
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <div style="background-color:#0d6efd; color:white; padding:20px;">
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <h2 style="margin:0;">🔔 Nuevo Pedido Pendiente</h2>
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </div>
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <div style="padding:20px;">
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Número de pedido:</strong> 51</p>
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Cliente:</strong> [22] Cliente Prueba</p>
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Fecha de creación:</strong> 2025-09-26 00:00:00</p>
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Fecha de entrega:</strong> 2025-09-26</p>
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Total:</strong> $5,742.00</p>
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Observaciones:</strong> Sin comentarios</p>
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <h3 style="margin-top:30px;">📦 Productos del pedido:</h3>
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <table style="width:100%; border-collapse:collapse; margin-top:10px; font-size:13px;">
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <thead>
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <tr style="background-color:#f1f1f1;">
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Producto</th>
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Cantidad</th>
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Precio Unitario</th>
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">IVA (%)</th>
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Descuento (%)</th>
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Importe</th>
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         </tr>
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </thead>
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <tbody><tr>
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc;">OLLA PARA PINTAR 9LTS C/MANGUERA Y PISTOLA ALTA PRESION</td>
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:center;">1</td>
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:right;">$4,950.00</td>
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:right;">16.00%</td>
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:right;">0.00%</td>
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:right;">$5,742.00</td>
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </tr></tbody></table>
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <div style="margin-top:30px; text-align:center;">
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <a href="http://tusitio.com/pedidos/ver.php?id=51" 
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:                style="background:#198754; color:white; padding:12px 20px; text-decoration:none; border-radius:6px; font-weight:bold;">
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:                 👉 Ver pedido en sistema
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             </a>
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         </div>
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </div>
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <div style="background-color:#f8f9fa; color:#666; font-size:12px; padding:15px; text-align:center;">
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         Este correo fue generado automáticamente por el sistema de pedidos de Distribuidora Industrial ALexander, no es necesario una respuesta.
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </div>
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: </div>
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: .
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250 OK id=1v2F4H-00000003qX2-3wCU
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: QUIT
+
+[26-Sep-2025 20:29:24 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 221 svgs441.serverneubox.com.mx closing connection
+
+[26-Sep-2025 20:29:24 UTC] PHP Warning:  Undefined variable $subtotal in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 144
+[26-Sep-2025 20:29:24 UTC] PHP Warning:  Undefined variable $descuento_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 145
+[26-Sep-2025 20:29:24 UTC] PHP Warning:  Undefined variable $iva_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 146
+[26-Sep-2025 20:35:08 UTC] PHP Warning:  Undefined variable $subtotal in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 144
+[26-Sep-2025 20:35:08 UTC] PHP Warning:  Undefined variable $descuento_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 145
+[26-Sep-2025 20:35:08 UTC] PHP Warning:  Undefined variable $iva_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 146
+[26-Sep-2025 20:36:36 UTC] No se pudo descargar el PDF para pedido #52 desde http://tusitio.com/pedidos/pedido_pdf.php?id=52
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 220-svgs441.serverneubox.com.mx ESMTP Exim 4.98.2 #2 Fri, 26 Sep 2025 14:36:36 -0600 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: EHLO inv.dialexander.com
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250-svgs441.serverneubox.com.mx Hello inv.dialexander.com [65.99.205.95]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: AUTH LOGIN
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: [credentials hidden]
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: [credentials hidden]
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 235 Authentication succeeded
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: MAIL FROM:<ventas@dialexander.com>
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250 OK
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: RCPT TO:<rasolis098@gmail.com>
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250 Accepted
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: RCPT TO:<ventas@dialexander.com>
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250 Accepted
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: DATA
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Date: Fri, 26 Sep 2025 20:36:36 +0000
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: To: rasolis098@gmail.com, ventas@dialexander.com
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: From: Distribuidora Industrial Alexander <ventas@dialexander.com>
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Subject: =?UTF-8?Q?=F0=9F=94=94_Pedido_pendiente_#52?=
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Message-ID: <Aq6yx69dzB5UQ8RJzs6CcA9yBUUIlLZmSf8YB0k4nA@inv.dialexander.com>
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: X-Mailer: PHPMailer 6.10.0 (https://github.com/PHPMailer/PHPMailer)
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: MIME-Version: 1.0
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: <div style="font-family:Arial, sans-serif; max-width:700px; margin:0 auto; border:1px solid #ddd; border-radius:8px; overflow:hidden; box-shadow:0 2px 5px rgba(0,0,0,0.1);">
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <div style="background-color:#0d6efd; color:white; padding:20px;">
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <h2 style="margin:0;">🔔 Nuevo Pedido Pendiente</h2>
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </div>
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <div style="padding:20px;">
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Número de pedido:</strong> 52</p>
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Cliente:</strong> [22] Cliente Prueba</p>
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Fecha de creación:</strong> 2025-09-26 00:00:00</p>
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Fecha de entrega:</strong> 2025-09-26</p>
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Total:</strong> $5,742.00</p>
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Observaciones:</strong> Sin comentarios</p>
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <h3 style="margin-top:30px;">📦 Productos del pedido:</h3>
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <table style="width:100%; border-collapse:collapse; margin-top:10px; font-size:13px;">
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <thead>
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <tr style="background-color:#f1f1f1;">
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Producto</th>
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Cantidad</th>
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Precio Unitario</th>
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">IVA (%)</th>
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Descuento (%)</th>
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Importe</th>
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         </tr>
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </thead>
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <tbody><tr>
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc;">OLLA PARA PINTAR 9LTS C/MANGUERA Y PISTOLA ALTA PRESION</td>
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:center;">1</td>
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:right;">$4,950.00</td>
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:right;">16.00%</td>
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:right;">0.00%</td>
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:right;">$5,742.00</td>
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </tr></tbody></table>
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <div style="margin-top:30px; text-align:center;">
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <a href="http://tusitio.com/pedidos/ver.php?id=52" 
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:                style="background:#198754; color:white; padding:12px 20px; text-decoration:none; border-radius:6px; font-weight:bold;">
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:                 👉 Ver pedido en sistema
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             </a>
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         </div>
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </div>
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <div style="background-color:#f8f9fa; color:#666; font-size:12px; padding:15px; text-align:center;">
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         Este correo fue generado automáticamente por el sistema de pedidos de Distribuidora Industrial ALexander, no es necesario una respuesta.
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </div>
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: </div>
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: .
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250 OK id=1v2FBF-00000003s9K-2CcF
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: QUIT
+
+[26-Sep-2025 20:36:36 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 221 svgs441.serverneubox.com.mx closing connection
+
+[26-Sep-2025 20:36:36 UTC] PHP Warning:  Undefined variable $subtotal in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 144
+[26-Sep-2025 20:36:36 UTC] PHP Warning:  Undefined variable $descuento_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 145
+[26-Sep-2025 20:36:36 UTC] PHP Warning:  Undefined variable $iva_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 146
+[26-Sep-2025 20:36:48 UTC] PHP Warning:  Undefined variable $subtotal in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 144
+[26-Sep-2025 20:36:48 UTC] PHP Warning:  Undefined variable $descuento_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 145
+[26-Sep-2025 20:36:48 UTC] PHP Warning:  Undefined variable $iva_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 146
+[26-Sep-2025 20:37:01 UTC] PHP Warning:  Undefined variable $subtotal in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 144
+[26-Sep-2025 20:37:01 UTC] PHP Warning:  Undefined variable $descuento_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 145
+[26-Sep-2025 20:37:01 UTC] PHP Warning:  Undefined variable $iva_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 146
+[26-Sep-2025 20:40:26 UTC] PHP Warning:  Undefined variable $subtotal in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 144
+[26-Sep-2025 20:40:26 UTC] PHP Warning:  Undefined variable $descuento_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 145
+[26-Sep-2025 20:40:26 UTC] PHP Warning:  Undefined variable $iva_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 146
+[26-Sep-2025 20:41:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dialexan/inv.dialexander.com/includes/header.php:18) in /home/dialexan/inv.dialexander.com/pedidos/editar_pedido.php on line 83
+[26-Sep-2025 20:43:29 UTC] PHP Warning:  Undefined variable $subtotal in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 144
+[26-Sep-2025 20:43:29 UTC] PHP Warning:  Undefined variable $descuento_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 145
+[26-Sep-2025 20:43:29 UTC] PHP Warning:  Undefined variable $iva_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 146
+[26-Sep-2025 20:47:05 UTC] No se pudo descargar el PDF para pedido #53 desde http://tusitio.com/pedidos/pedido_pdf.php?id=53
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 220-svgs441.serverneubox.com.mx ESMTP Exim 4.98.2 #2 Fri, 26 Sep 2025 14:47:05 -0600 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: EHLO inv.dialexander.com
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250-svgs441.serverneubox.com.mx Hello inv.dialexander.com [65.99.205.95]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: AUTH LOGIN
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: [credentials hidden]
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: [credentials hidden]
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 235 Authentication succeeded
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: MAIL FROM:<ventas@dialexander.com>
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250 OK
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: RCPT TO:<rasolis098@gmail.com>
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250 Accepted
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: RCPT TO:<ventas@dialexander.com>
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250 Accepted
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: DATA
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Date: Fri, 26 Sep 2025 20:47:05 +0000
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: To: rasolis098@gmail.com, ventas@dialexander.com
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: From: Distribuidora Industrial Alexander <ventas@dialexander.com>
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Subject: =?UTF-8?Q?=F0=9F=94=94_Pedido_pendiente_#53?=
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Message-ID: <O33oDSADDbOkntikpTX09UYJFjTzBhgc0CuebO38@inv.dialexander.com>
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: X-Mailer: PHPMailer 6.10.0 (https://github.com/PHPMailer/PHPMailer)
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: MIME-Version: 1.0
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: <div style="font-family:Arial, sans-serif; max-width:700px; margin:0 auto; border:1px solid #ddd; border-radius:8px; overflow:hidden; box-shadow:0 2px 5px rgba(0,0,0,0.1);">
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <div style="background-color:#0d6efd; color:white; padding:20px;">
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <h2 style="margin:0;">🔔 Nuevo Pedido Pendiente</h2>
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </div>
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <div style="padding:20px;">
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Número de pedido:</strong> 53</p>
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Cliente:</strong> [22] Cliente Prueba</p>
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Fecha de creación:</strong> 2025-09-26 00:00:00</p>
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Fecha de entrega:</strong> 2025-09-28</p>
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Total:</strong> $5,742.00</p>
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <p><strong>Observaciones:</strong> Sin comentarios</p>
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <h3 style="margin-top:30px;">📦 Productos del pedido:</h3>
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <table style="width:100%; border-collapse:collapse; margin-top:10px; font-size:13px;">
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <thead>
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <tr style="background-color:#f1f1f1;">
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Producto</th>
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Cantidad</th>
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Precio Unitario</th>
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">IVA (%)</th>
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Descuento (%)</th>
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <th style="padding:8px; border:1px solid #ccc;">Importe</th>
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         </tr>
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </thead>
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <tbody><tr>
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc;">OLLA PARA PINTAR 9LTS C/MANGUERA Y PISTOLA ALTA PRESION</td>
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:center;">1</td>
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:right;">$4,950.00</td>
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:right;">16.00%</td>
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:right;">0.00%</td>
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <td style="padding:8px; border:1px solid #ccc; text-align:right;">$5,742.00</td>
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </tr></tbody></table>
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         <div style="margin-top:30px; text-align:center;">
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             <a href="http://tusitio.com/pedidos/ver.php?id=53" 
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:                style="background:#198754; color:white; padding:12px 20px; text-decoration:none; border-radius:6px; font-weight:bold;">
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:                 👉 Ver pedido en sistema
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:             </a>
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         </div>
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </div>
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     <div style="background-color:#f8f9fa; color:#666; font-size:12px; padding:15px; text-align:center;">
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:         Este correo fue generado automáticamente por el sistema de pedidos de Distribuidora Industrial ALexander, no es necesario una respuesta.
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER:     </div>
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: </div>
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: 
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: .
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 250 OK id=1v2FLO-00000003uRf-3Ru8
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 1; message: CLIENT -> SERVER: QUIT
+
+[26-Sep-2025 20:47:05 UTC] SMTP Debug level 2; message: SERVER -> CLIENT: 221 svgs441.serverneubox.com.mx closing connection
+
+[26-Sep-2025 20:47:05 UTC] PHP Warning:  Undefined variable $subtotal in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 144
+[26-Sep-2025 20:47:05 UTC] PHP Warning:  Undefined variable $descuento_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 145
+[26-Sep-2025 20:47:05 UTC] PHP Warning:  Undefined variable $iva_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 146
+[26-Sep-2025 20:47:16 UTC] PHP Warning:  Undefined variable $subtotal in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 144
+[26-Sep-2025 20:47:16 UTC] PHP Warning:  Undefined variable $descuento_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 145
+[26-Sep-2025 20:47:16 UTC] PHP Warning:  Undefined variable $iva_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 146
+[26-Sep-2025 20:48:15 UTC] PHP Warning:  Undefined variable $subtotal in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 144
+[26-Sep-2025 20:48:15 UTC] PHP Warning:  Undefined variable $descuento_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 145
+[26-Sep-2025 20:48:15 UTC] PHP Warning:  Undefined variable $iva_total in /home/dialexan/inv.dialexander.com/pedidos/ver_pedido.php on line 146
+[30-Sep-2025 16:57:39 UTC] === INICIANDO completar_pedido.php ===
+[30-Sep-2025 16:57:39 UTC] GET id: 54
+[30-Sep-2025 16:57:39 UTC] Procesando pedido ID: 54
+[30-Sep-2025 16:57:39 UTC] Datos del pedido: Array
+(
+    [id] => 54
+    [cliente_id] => 23
+    [usuario_id] => 
+    [cotizacion_origen_id] => 20
+    [fecha] => 2025-09-30 00:00:00
+    [fecha_entrega] => 
+    [total] => 107000.00
+    [observaciones] => 
+    [estado] => 
+    [correo_enviado] => 0
+    [intentos_envio] => 0
+    [fecha_ultimo_intento] => 
+)
+
+[30-Sep-2025 16:57:39 UTC] Usuario ID: 3, Empleado ID: 3
+[30-Sep-2025 16:57:39 UTC] Transacción iniciada
+[30-Sep-2025 16:57:39 UTC] Número de factura: F-20250930-0054
+[30-Sep-2025 16:57:39 UTC] Venta creada ID: 140
+[30-Sep-2025 16:57:39 UTC] Advertencia en items: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dialexan_inventariosystem.pedidos_items' doesn't exist
+[30-Sep-2025 16:57:39 UTC] Estado del pedido actualizado a 'completado'
+[30-Sep-2025 16:57:39 UTC] Transacción confirmada
+[30-Sep-2025 16:57:39 UTC] Proceso completado exitosamente
+[01-Oct-2025 15:53:21 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "APP_URL" in /home/dialexan/inv.dialexander.com/includes/header.php:61
+Stack trace:
+#0 /home/dialexan/inv.dialexander.com/pedidos/index.php(6): require_once()
+#1 {main}
+  thrown in /home/dialexan/inv.dialexander.com/includes/header.php on line 61
+[01-Oct-2025 15:53:37 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "APP_URL" in /home/dialexan/inv.dialexander.com/includes/header.php:61
+Stack trace:
+#0 /home/dialexan/inv.dialexander.com/pedidos/index.php(6): require_once()
+#1 {main}
+  thrown in /home/dialexan/inv.dialexander.com/includes/header.php on line 61
+[01-Oct-2025 15:54:54 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "APP_URL" in /home/dialexan/inv.dialexander.com/includes/header.php:61
+Stack trace:
+#0 /home/dialexan/inv.dialexander.com/pedidos/index.php(6): require_once()
+#1 {main}
+  thrown in /home/dialexan/inv.dialexander.com/includes/header.php on line 61
