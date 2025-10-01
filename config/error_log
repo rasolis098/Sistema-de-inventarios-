@@ -1,0 +1,774 @@
+[24-Sep-2025 03:27:39 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:27:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:27:54 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:27:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:27:56 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:27:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:27:58 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:27:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:28:06 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:28:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:28:09 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:28:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:28:09 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:28:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:28:09 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:28:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:28:09 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:28:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:28:09 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:28:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:28:10 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:28:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:28:10 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:28:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:28:10 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:28:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:28:10 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:28:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:28:10 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:28:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:28:10 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:28:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:28:10 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:28:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:28:10 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:28:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:28:10 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:28:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:28:10 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:28:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:28:10 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:28:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:28:11 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:28:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:28:58 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:28:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:06 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:08 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:08 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:09 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:09 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:09 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:09 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:10 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:10 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:10 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:13 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:13 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:14 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:14 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:14 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:14 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:14 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:15 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:15 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:15 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:15 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:15 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:16 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:16 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:16 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:16 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:16 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:17 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:17 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:17 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:17 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:17 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:18 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:18 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:18 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:18 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:18 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:18 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:19 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:19 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:19 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:19 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:19 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:20 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:20 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:20 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:20 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:20 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:20 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:21 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:21 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:21 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:29:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:14 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:16 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:16 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:16 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:17 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:17 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:24 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:25 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:25 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:26 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:26 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:26 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:26 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:26 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:32 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:32 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:32 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:32 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:32 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:32 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:32 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:32 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:33 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:33 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:33 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:33 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:33 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:33 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:33 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:34 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:34 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:34 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:34 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:34 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:35 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:35 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:35 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:35 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:35 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:36 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:36 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:36 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:36 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:36 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:36 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:30:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:31:40 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:31:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:32:14 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:32:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:18 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:21 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:21 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:22 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:22 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:22 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:22 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:22 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:22 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:25 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:25 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:25 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:25 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:25 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:25 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:25 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:25 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:26 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:26 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:26 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:26 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:26 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:26 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:26 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:27 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:27 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:27 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:27 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:27 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:28 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:28 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:28 UTC] PHP Warning:  require_once(/home/dialexan/inv.dialexander.com/config/config.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dialexan/inv.dialexander.com/config/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 8
+[24-Sep-2025 03:33:59 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/dialexan/inv.dialexander.com/config/inicializar_db.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/config/inicializar_db.php on line 13
