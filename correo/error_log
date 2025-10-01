@@ -1,0 +1,15 @@
+
+[01-Oct-2025 18:53:19 UTC] PHP Fatal error:  Uncaught Error: Undefined constant PHPMailer\PHPMailer\PHPMailer::ENCRYPTION_SSL in /home/dialexan/inv.dialexander.com/correo/redactar.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/correo/redactar.php on line 49
+[01-Oct-2025 18:59:01 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + int in /home/dialexan/inv.dialexander.com/correo/ver.php:88
+Stack trace:
+#0 /home/dialexan/inv.dialexander.com/correo/ver.php(156): get_body()
+#1 {main}
+  thrown in /home/dialexan/inv.dialexander.com/correo/ver.php on line 88
+[01-Oct-2025 18:59:09 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + int in /home/dialexan/inv.dialexander.com/correo/ver.php:88
+Stack trace:
+#0 /home/dialexan/inv.dialexander.com/correo/ver.php(156): get_body()
+#1 {main}
+  thrown in /home/dialexan/inv.dialexander.com/correo/ver.php on line 88
