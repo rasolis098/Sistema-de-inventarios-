@@ -1,0 +1,5 @@
+cambiar los datos :
+servidor
+base de datos
+usuario
+contraseña
