@@ -1,0 +1,6 @@
+[24-Sep-2025 18:42:56 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dialexan/inv.dialexander.com/conteo/index.php on line 4
+[24-Sep-2025 21:59:44 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dialexan/inv.dialexander.com/conteo/index.php on line 4
+[24-Sep-2025 22:54:38 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dialexan/inv.dialexander.com/conteo/index.php on line 4
+[25-Sep-2025 03:02:13 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dialexan/inv.dialexander.com/conteo/index.php on line 4
+[25-Sep-2025 03:16:56 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dialexan/inv.dialexander.com/conteo/index.php on line 4
+[25-Sep-2025 03:17:01 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dialexan/inv.dialexander.com/conteo/index.php on line 4
