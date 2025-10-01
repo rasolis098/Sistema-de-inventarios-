@@ -1,0 +1,84 @@
+inventario/
+│
+├── config/
+│   └── db.php                   # Conexión a la base de datos
+│
+├── includes/
+│   ├── header.php               # Bootstrap + navbar
+│   └── footer.php               # Scripts JS + cierre HTML
+│
+├── assets/
+│   ├── css/
+│   │   └── estilos.css          # Estilos personalizados
+│   └── js/
+│       └── funciones.js         # JS adicional
+│
+├── productos/
+│   ├── index.php                # Listado con DataTables
+│   ├── agregar.php              # Formulario para agregar producto
+│   ├── editar.php               # Editar producto
+│   └── eliminar.php             # Eliminar producto
+│
+├── almacenes/
+│   ├── index.php
+│   ├── agregar.php
+│   ├── editar.php
+│   └── eliminar.php
+│
+├── existencias/
+│   └── index.php                # Stock por almacén y producto
+│
+├── movimientos/
+│   ├── index.php
+│   ├── entrada.php
+│   ├── salida.php
+│   ├── transferencia.php
+│   └── ajuste.php
+│
+├── clientes/
+│   ├── index.php
+│   ├── agregar.php
+│   ├── editar.php
+│   └── eliminar.php
+│
+├── cotizaciones/
+│   ├── index.php
+│   ├── agregar.php
+│   ├── ver.php
+│   └── imprimir.php
+│
+├── pedidos/
+│   ├── index.php
+│   ├── agregar.php
+│   ├── ver.php
+│   └── procesar.php
+│
+├── lotes/
+│   ├── index.php
+│   └── agregar.php
+│
+├── inspecciones/
+│   ├── index.php
+│   └── registrar.php
+│
+├── equipos/
+│   ├── index.php
+│   └── agregar.php
+│
+├── mantenimientos/
+│   ├── index.php
+│   └── registrar.php
+│
+├── reportes/
+│   ├── stock_bajo.php
+│   ├── movimientos_fecha.php
+│   ├── ventas_cliente.php
+│   └── mermas.php
+│
+└── index.php                   # Página principal o dashboard
+
+
+
+Dialexander228.
+Dialexander228.
+
