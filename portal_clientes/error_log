@@ -1,0 +1,15 @@
+[29-Jul-2025 20:09:53 UTC] PHP Warning:  require(funciones.php): Failed to open stream: No such file or directory in /home/dialexan/inv.dialexander.com/portal_clientes/enviar_token.php on line 3
+[29-Jul-2025 20:09:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'funciones.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dialexan/inv.dialexander.com/portal_clientes/enviar_token.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/dialexan/inv.dialexander.com/portal_clientes/enviar_token.php on line 3
+[29-Jul-2025 20:37:49 UTC] PHP Warning:  Undefined variable $email in /home/dialexan/inv.dialexander.com/portal_clientes/ver_pedido.php on line 94
+[29-Jul-2025 20:37:49 UTC] PHP Warning:  Undefined variable $codigo in /home/dialexan/inv.dialexander.com/portal_clientes/ver_pedido.php on line 94
+[29-Jul-2025 20:38:27 UTC] PHP Warning:  Undefined variable $email in /home/dialexan/inv.dialexander.com/portal_clientes/ver_pedido.php on line 94
+[29-Jul-2025 20:38:27 UTC] PHP Warning:  Undefined variable $codigo in /home/dialexan/inv.dialexander.com/portal_clientes/ver_pedido.php on line 94
+[29-Jul-2025 20:38:30 UTC] PHP Warning:  Undefined variable $email in /home/dialexan/inv.dialexander.com/portal_clientes/ver_pedido.php on line 94
+[29-Jul-2025 20:38:30 UTC] PHP Warning:  Undefined variable $codigo in /home/dialexan/inv.dialexander.com/portal_clientes/ver_pedido.php on line 94
+[29-Jul-2025 22:08:12 UTC] PHP Parse error:  syntax error, unexpected token "/" in /home/dialexan/inv.dialexander.com/portal_clientes/ver_pedido_pdf.php on line 164
+[29-Jul-2025 22:09:09 UTC] PHP Parse error:  syntax error, unexpected token "," in /home/dialexan/inv.dialexander.com/portal_clientes/ver_pedido_pdf.php on line 164
+[29-Jul-2025 22:09:11 UTC] PHP Parse error:  syntax error, unexpected token "," in /home/dialexan/inv.dialexander.com/portal_clientes/ver_pedido_pdf.php on line 164
+[29-Jul-2025 22:09:18 UTC] PHP Parse error:  syntax error, unexpected token "," in /home/dialexan/inv.dialexander.com/portal_clientes/ver_pedido_pdf.php on line 164
